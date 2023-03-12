@@ -31,9 +31,7 @@
 <!-- Document Wrapper
 ============================================= -->
 <div id="wrapper" class="clearfix">
-
-
-    <header id="header" class="full-header transparent-header semi-transparent">
+    <header id="header" class="full-header" data-sticky-logo-height="74" data-menu-padding="32" style="padding:7px !important">
         <div id="header-wrap">
             <div class="container">
                 <div class="header-row">
